@@ -1,0 +1,75 @@
+.marketing {
+
+  width: 460px;
+  -premailer-width: 460;
+  text-align: center;
+  
+  .preview {
+    display:none !important;
+    color: #ffffff;
+  }
+
+  .header {
+    
+    tr {
+      text-align: center; 
+    }
+
+    td {
+      text-align: center;
+      color: #b7afaf; 
+      font-family: Arial, Helvetica, sans-serif; 
+      font-size: 9px; 
+      text-decoration: none; 
+      letter-spacing: 0.5px;
+    }
+  
+  }
+  
+  .header-link{
+    color: #b7afaf; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 9px; 
+    text-decoration: none; 
+    letter-spacing: 0.5px; 
+    line-height: 20px;
+  }
+
+  .view-in-browser {
+    
+    font {
+      color: #7c8b88; 
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 9px;
+    }
+  }
+
+  .rafMessage {
+    color: #2c3b31; 
+    font-size: 11px; 
+    text-decoration: none;
+  }
+}
+
+table {
+  -premailer-width: 490; 
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  border: none;
+  text-align: center;
+}
+
+.marketing-footer {
+  
+  table {
+    -premailer-width: 390;
+    -premailer-cellpadding: 0;
+    -premailer-cellspacing: 0;
+    border: 0;
+    text-align: center;
+
+    tr{
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "New email 2",
+  "preheaderText": "This is preheader text. Some clients will show this text as a preview.",
+  "previewText": "Shop new arrivals at Anthropologie.",
+  "bodyText": "This is body text",
+  "headerLink" : {
+    "text": "Start with floaty peplums and unexpected ruffles.",
+    "href": "http://%%track%%/preheader"
+  },
+  "socialList": 
+    [{
+      "icon":   "http://f.email2.anthropologie.com/i/23/1134998097/calabasas_490_footer_pinterest.jpg",
+      "url":   "http://%%track%%/fpinterest"
+    },
+    {
+      "icon":   "http://f.email2.anthropologie.com/i/23/1134998097/calabasas_490_footer_instagram.jpg",
+      "url":   "http://%%track%%/finstagram"
+    },
+    {
+      "icon":   "http://f.email2.anthropologie.com/i/23/1134998097/calabasas_490_footer_twitter.jpg",
+      "url":   "http://%%track%%/ftwitter"
+    },
+    {
+      "icon":   "http://f.email2.anthropologie.com/i/23/1134998097/calabasas_490_footer_facebook.jpg",
+      "url":   "http://%%track%%/ffacebook"
+    },
+    {
+      "icon":   "http://f.email2.anthropologie.com/i/23/1134998097/calabasas_490_footer_app.jpg",
+      "url":   "http://%%track%%/fapp"
+    }],
+  "shippingDisclaimer": "Receive free standard shipping on US, Canada and Australia orders of $150 or more, and free express shipping on Mexico orders of $150 or more, through Monday, 5-18th 2015 at 11:59 p.m. PT. Enter code HELLOSUNSHINE at checkout. This offer does not apply to Terrain or BHLDN merchandise, employee orders or previously placed orders, and additional fees apply for overweight, express or overnight shipping, where applicable."
+
+}

@@ -3,12 +3,15 @@
 ------------------------------------- */
 
 body{
-  background-color: $grey;
+  // background-color: $white;
+  left: 0;
+  width: 100%;
+  background-color: $white;
+  margin: 0;
 }
 
 .body {
-  background-color: $grey;
-  width: 100%;
+  
 }
 
 /* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */
@@ -36,7 +39,7 @@ body{
 
 .main {
   background: #fff;
-  border: 1px solid darken($grey, 5);
+  border: 1px solid darken($white, 5);
   border-radius: $br;
   width: 100%;
 }
@@ -54,6 +57,11 @@ body{
   margin-bottom: $padding;
   margin-top: ($padding - 10);
   width: 100%;
+  -premailer-width: 490;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  text-align: center;
+  border: 0;
 }
 
 .footer {
